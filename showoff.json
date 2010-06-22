@@ -1,0 +1,9 @@
+[ 
+  { "section" : "title" },
+  { "section" : "introduction" },
+  { "section" : "b2c_project" },
+  { "section" : "growing_pains" },
+  { "section" : "stopgap" },
+  { "section" : "job_queue" },
+  { "section" : "wrapping_up" }
+]
